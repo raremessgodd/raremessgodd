@@ -1,6 +1,5 @@
 ## Hi, my name is Artem 👋
 
-**Work experience**: 
 I am an experienced Java developer specializing in creating high-load and scalable applications. I have deep knowledge in the field of Java development and experience working with various technologies and tools. 
 
 ### Technologies and Tools
@@ -19,8 +18,8 @@ I am an experienced Java developer specializing in creating high-load and scalab
 * Docker — platform for containerizing applications.
 
 #### Contacts
-Email: tipokruto014@gmail.com
-Telegram: t.me/raremessgodd
+* Email: tipokruto014@gmail.com
+* Telegram: t.me/raremessgodd
 
 <!--
 **raremessgodd/raremessgodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
