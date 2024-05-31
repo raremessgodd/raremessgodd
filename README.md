@@ -18,7 +18,8 @@ I am an experienced Java developer specializing in creating high-load and scalab
 * Docker — platform for containerizing applications.
 
 ## Contacts
-#### Email: tipokruto014@gmail.com
+* Email: [tipokruto014@gmail.com](tipokruto014@gmail.com)
+* Telegram: [@raremessgodd](t.me/raremessgodd) 
 
 <!--
 **raremessgodd/raremessgodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
