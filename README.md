@@ -2,7 +2,7 @@
 
 I am an experienced Java developer specializing in creating high-load and scalable applications. I have deep knowledge in the field of Java development and experience working with various technologies and tools. 
 
-### Technologies and Tools
+## Technologies and Tools
 * Spring Boot — a framework for creating standalone applications based on the Spring Framework.
 * Hibernate — an ORM framework that allows you to work with databases at the object level.
 * SQL — a query language for working with relational databases.
@@ -17,9 +17,8 @@ I am an experienced Java developer specializing in creating high-load and scalab
 * REST API — technology for creating web services.
 * Docker — platform for containerizing applications.
 
-#### Contacts
-* Email: tipokruto014@gmail.com
-* Telegram: t.me/raremessgodd
+## Contacts
+#### Email: tipokruto014@gmail.com
 
 <!--
 **raremessgodd/raremessgodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
