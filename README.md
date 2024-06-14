@@ -2,6 +2,17 @@
 
 I am an experienced Java developer specializing in creating high-load and scalable applications. I have deep knowledge in the field of Java development and experience working with various technologies and tools. 
 
+##
+<div style="margin: 0 auto">
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raremessgodd&theme=github_dark"/>
+    </p>
+    <div style="display: flex; justify-content: between">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raremessgodd&theme=github_dark&exclude=Node.js"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raremessgodd&theme=github_dark"/>
+    </div>
+</div>
+
 ## Technologies and Tools
 * Spring Boot — a framework for creating standalone applications based on the Spring Framework.
 * Hibernate — an ORM framework that allows you to work with databases at the object level.
