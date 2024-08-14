@@ -8,7 +8,7 @@ I am an experienced Java developer specializing in creating high-load and scalab
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raremessgodd&theme=github_dark"/>
     </p>
     <div style="display: flex; justify-content: between">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raremessgodd&theme=github_dark&exclude=Node.js"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raremessgodd&theme=github_dark"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raremessgodd&theme=github_dark"/>
     </div>
 </div>
