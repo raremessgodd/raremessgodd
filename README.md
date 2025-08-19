@@ -1,47 +1,62 @@
-## Hi, my name is Artem 👋
+# Hi, I'm Artem Kurbanov  
 
-I am an experienced Java developer specializing in creating high-load and scalable applications. I have deep knowledge in the field of Java development and experience working with various technologies and tools. 
+**Java Backend Developer | 3+ years of experience**  
 
-##
-<div style="margin: 0 auto">
-    <p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raremessgodd&theme=github_dark"/>
-    </p>
-    <div style="display: flex; justify-content: between">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raremessgodd&theme=github_dark"/>
-    </div>
-</div>
+I specialize in building scalable backend systems with **Java, Spring, Kafka, Docker, PostgreSQL**.  
+I have hands-on experience in **microservices, event-driven architecture, and database migrations**.  
 
-## Technologies and Tools
-* Spring Boot — a framework for creating standalone applications based on the Spring Framework.
-* Hibernate — an ORM framework that allows you to work with databases at the object level.
-* SQL — a query language for working with relational databases.
-* NoSQL — technologies for working with non-relational databases.
-* Redis — distributed data caching system.
-* MongoDB — open-source document-oriented database.
-* PostgreSQL — object-relational database management system (DBMS).
-* Kafka — message broker for distributed systems.
-* Maven / Gradle — tools for building projects.
-* Git — version control system.
-* JUnit / Mockhito — a testing framework for code.
-* REST API — technology for creating web services.
-* Docker — platform for containerizing applications.
+---
 
-## Contacts
-* Email: [tipokruto014@gmail.com](tipokruto014@gmail.com)
-* Telegram: [@raremessgodd](t.me/raremessgodd) 
+## About Me
+- **Sberbank (AS CC project)** — worked on cash-flow management system for cash centers  
+  - Migrated **80+ TB Oracle DB → Sharded PostgreSQL** with optimized queries  
+  - Built Kafka-based integration for instant electronic refunds  
+  - Improved DevOps pipelines (Istio abstractions, Jenkins automation)  
 
-<!--
-**raremessgodd/raremessgodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Logistic PRO** — internal cargo tracking system  
+  - Optimized delivery reporting (20s → 5s) using SQL window functions  
+  - Configured Kafka consumers with manual offset control  
+  - Fixed 10+ critical defects and mentored interns  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+**Frameworks & Libraries:**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
+![Mockito](https://img.shields.io/badge/Mockito-2AAB2E?style=for-the-badge&logo=mockito&logoColor=white)  
+
+**Databases & Messaging:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)  
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=raremessgodd&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raremessgodd&layout=compact&theme=tokyonight)  
+
+---
+
+## Contact
+- Email: **temvmp@yandex.ru**  
+
+---
+*Always open to collaboration and new opportunities in backend development.*  
